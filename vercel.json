@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://www.ssangyongsports.eu.org/$1",
+      "permanent": true
+    }
+  ]
+}
