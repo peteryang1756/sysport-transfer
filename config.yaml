@@ -1,0 +1,7 @@
+proxies:
+  - name: "MyProxy"
+    type: http
+    server: 207.228.42.131
+    port: 46688
+    username: 00QDXWq85Zg8KNo
+    password: 9qTGqHqv5TDFFTX
